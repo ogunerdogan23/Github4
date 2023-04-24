@@ -24,5 +24,6 @@ public class G02 {
 
 
          */
+        System.out.println("islem ekle");
     }
 }
